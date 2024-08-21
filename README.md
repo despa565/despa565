@@ -33,23 +33,22 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
 </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/ayush-thakkar">
-    <img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" height="40" width="40" />
-  </a>
-  <a href="https://github.com/ayush-thakkar">
-    <img align="center" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="github" height="40" width="40" />
-  </a>
-  <a href="https://twitter.com/ayush_thakkar">
-    <img align="center" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="twitter" height="40" width="40" />
-  </a>
-  <a href="https://www.instagram.com/ayush/">
-    <img align="center" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png" alt="instagram" height="40" width="40" />
-  </a>
-  <a href="mailto:ayush.thakkar@example.com">
-    <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email" height="40" width="40" />
-  </a>
-</p>
+<h3>Connect with me:</h3>
+<a href="https://www.linkedin.com/in/ayush-thakkar">
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" height="40" width="40" />
+</a>
+<a href="https://github.com/ayush-thakkar">
+  <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="github" height="40" width="40" />
+</a>
+<a href="https://twitter.com/ayush_thakkar">
+  <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="twitter" height="40" width="40" />
+</a>
+<a href="https://www.instagram.com/ayush/">
+  <img src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png" alt="instagram" height="40" width="40" />
+</a>
+<a href="mailto:ayush.thakkar@example.com">
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email" height="40" width="40" />
+</a>
+
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=auto&height=300&section=footer&text=Thank%20You&fontSize=90" />
