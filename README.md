@@ -34,6 +34,7 @@
 </p>
 
 <h3>Connect with me:</h3>
+<p align="center">
 <a href="https://www.linkedin.com/in/ayush-thakkar">
   <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" height="40" width="40" />
 </a> &nbsp &nbsp &nbsp
@@ -49,6 +50,7 @@
 <a href="mailto:ayush.thakkar@example.com">
   <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email" height="40" width="40" />
 </a>
+</p>
 
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=auto&height=300&section=footer&text=Thank%20You&fontSize=90" />
