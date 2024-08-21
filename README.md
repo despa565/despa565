@@ -36,16 +36,16 @@
 <h3>Connect with me:</h3>
 <a href="https://www.linkedin.com/in/ayush-thakkar">
   <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" height="40" width="40" />
-</a>
+</a> &nbsp &nbsp &nbsp
 <a href="https://github.com/ayush-thakkar">
   <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="github" height="40" width="40" />
-</a>
+</a> &nbsp &nbsp &nbsp
 <a href="https://twitter.com/ayush_thakkar">
   <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" alt="twitter" height="40" width="40" />
-</a>
+</a> &nbsp &nbsp &nbsp
 <a href="https://www.instagram.com/ayush/">
   <img src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png" alt="instagram" height="40" width="40" />
-</a>
+</a> &nbsp &nbsp &nbsp
 <a href="mailto:ayush.thakkar@example.com">
   <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email" height="40" width="40" />
 </a>
