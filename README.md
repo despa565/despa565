@@ -11,8 +11,6 @@
 
 - 💬 Ask me about **Angular, React, JavaScript, and Frontend Development**
 
-- 📫 How to reach me: **ayush.thakkar@example.com**
-
 - ⚡ Fun fact: **I love solving puzzles and experimenting with new web technologies!**
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
