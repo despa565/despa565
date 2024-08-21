@@ -22,16 +22,9 @@
 
 - 💬 Ask me about **Angular**
 
-- 📫 How to reach me **ayushthakkar93@gmail.com**
+  
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
-
-
-
-
 <a href="https://www.instagram.com/ayush/">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
 </a>
